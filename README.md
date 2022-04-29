@@ -1,4 +1,4 @@
-#MadeAtMetis | Classification | Deliverables
+#MadeAtMetis | Classification Deliverables
 
 # Title TBD
 
