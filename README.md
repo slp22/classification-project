@@ -1,8 +1,9 @@
 #MadeAtMetis | Classification Deliverables
 
-# Title TBD
+# Predicting Heart Disease   
 
-* Proposal
+
+* [Proposal](https://github.com/slp22/classification-project/blob/main/classification-heart-disease-proposal.md)
 * MVP
 * Slides
 * Summary
