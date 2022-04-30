@@ -2,15 +2,12 @@
 
 # Predicting Heart Disease   
 
-https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106
-
-
 ## Question
 * What is the question behind your analysis or model and what practical impact will your work have?
-    * Question ...
+    * Could a model predict the probability of a patient having [heart disease](https://medlineplus.gov/hearthealthtests.html) based on the [risk factors](https://www.cdc.gov/HeartDisease/risk_factors.htm) in electronic health records?  
 * Who is your client and how will that client benefits from exploring this question or building this model/system?
-    * Client ...  
-    * Benefits ... 
+    * [Kaiser Permanente](https://healthy.kaiserpermanente.org/front-door), a [health maintenance organization (HMO)](https://www.investopedia.com/terms/h/hmo.asp) and integrated managed care consortium. Their business model is such that the organization is both the insurer and healthcare provider. 
+    * Heart disease (which can lead to heart attacks) is the [leading cause](https://www.cdc.gov/heartdisease/facts.htm) of death in the U.S. for men and women. Kaiser would benefit from a model predicting patients' probability of a heart attack by focusing on patient with high risk before an attack, ensuring better health for patients and lower costs for the organization. 
 
 ## Data Description
 * What dataset(s) do you plan to use, and how will you obtain the data? 
