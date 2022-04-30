@@ -11,7 +11,10 @@
 
 ## Data Description
 * What dataset(s) do you plan to use, and how will you obtain the data? 
-    * Centers for Disease Control and Prevention, [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/index.html), [Personal Key Indicators of Heart Disease (Kaggle)](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+    * [Personal Key Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) 
+        * Subset of the [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/index.html)
+        * Annual survey by the [Centers for Disease Control and Prevention](https://www.cdc.gov/)
+    * [2020 BRFFS Codebook](https://www.cdc.gov/brfss/annual_data/2020/pdf/codebook20_llcp-v2-508.pdf)
 * What is an individual sample/unit of analysis in this project?
     * One row is one respondent's answers to the BRFSS questions about and their demographics and medical history (n=319,795).  
 * What characteristics/features do you expect to work with?
