@@ -1,6 +1,6 @@
 #### Classification | Project Proposal
 
-# Predicting Heart Attacks 
+# Predicting Heart Disease   
 
 https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106
 
@@ -23,10 +23,10 @@ https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-
         - `Race`
         - `Sex`
     * Health behaviors:
-        - `Smoking`
         - `Alcohol Drinking`
-        - `Sleep Time` 
         - `Physical Activity`
+        - `Sleep Time` 
+        - `Smoking`
     * Health:
         - `Body Mass Index (BMI)`
         - `Difficulty Walking`
