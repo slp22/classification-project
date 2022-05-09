@@ -4,7 +4,7 @@
 
 
 * [Proposal](https://github.com/slp22/classification-project/blob/main/classification-heart-disease-proposal.md)
-* MVP
+* [MVP](https://github.com/slp22/classification-project/blob/main/classification-heart-disease_mvp.ipynb)
 * Slides
 * Summary
 * Model
