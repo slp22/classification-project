@@ -2,12 +2,12 @@
 
 # Predicting Heart Disease   
 
-## Question
-* What is the question behind your analysis or model and what practical impact will your work have?
-    * Could a model predict the probability of a patient having [heart disease](https://medlineplus.gov/hearthealthtests.html) based on the [risk factors](https://www.cdc.gov/HeartDisease/risk_factors.htm) in electronic health records?  
-* Who is your client and how will that client benefits from exploring this question or building this model/system?
+## Client & Business Question
+* Who is your client, and how will that client benefit from exploring this question or building this model/system?
     * [Kaiser Permanente](https://healthy.kaiserpermanente.org/front-door), a [health maintenance organization (HMO)](https://www.investopedia.com/terms/h/hmo.asp) and integrated managed care consortium. Their business model is such that the organization is both the insurer and healthcare provider. 
-    * Heart disease (which can lead to heart attacks) is the [leading cause](https://www.cdc.gov/heartdisease/facts.htm) of death in the U.S. for men and women. Kaiser would benefit from a model predicting patients' probability of a heart attack by focusing on patient with high risk before an attack, ensuring better health for patients and lower costs for the organization. 
+    * Heart disease (which can lead to heart attacks) is the [leading cause](https://www.cdc.gov/heartdisease/facts.htm) of death in the U.S. for men and women. Kaiser would benefit from a model that predicts patients' probability of a heart attack by focusing on high-risk patients before an attack, ensuring better health for patients and lower costs for the organization. 
+* What is the question behind your analysis or model, and what practical impact will your work have?
+    * Could a model predict the probability of a patient having [heart disease](https://medlineplus.gov/hearthealthtests.html) based on the [risk factors](https://www.cdc.gov/HeartDisease/risk_factors.htm) in electronic health records?  
 
 ## Data Description
 * What dataset(s) do you plan to use, and how will you obtain the data? 
@@ -16,7 +16,7 @@
         * Annual survey by the [Centers for Disease Control and Prevention](https://www.cdc.gov/)
     * [2020 BRFFS Codebook](https://www.cdc.gov/brfss/annual_data/2020/pdf/codebook20_llcp-v2-508.pdf)
 * What is an individual sample/unit of analysis in this project?
-    * One row is one respondent's answers to the BRFSS questions about and their demographics and medical history (n=319,795).  
+    * One row is one respondent's answers to the BRFSS questions about their demographics and medical history (n=319,795).  
 * What characteristics/features do you expect to work with?
     * Demographics:
         - `Age Category`
